@@ -1,5 +1,12 @@
-### Hi there 👋
+# !phenom
 
+I'm a former <a href ="https://gangwarsrp.com/forums">GangWarsRP</a> developer.
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=notphenom&theme=dracula&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notphenom&hide_border=true&theme=dracula"/>
+
+## Languages
+![](https://img.shields.io/badge/-Lua-333333?style=flat?logoColor=blue&logo=lua)
 <!--
 **notphenom/notphenom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
