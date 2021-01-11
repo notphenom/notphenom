@@ -1,4 +1,4 @@
-# !phenom
+![](https://i.imgur.com/zWtdJCc.png)
 
 I'm a former <a href ="https://gangwarsrp.com/forums">GangWarsRP</a> developer.
 
