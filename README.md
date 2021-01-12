@@ -3,7 +3,8 @@
 I'm a former <a href ="https://gangwarsrp.com/forums">GangWarsRP</a> developer.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=notphenom&theme=dracula&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notphenom&hide_border=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=notphenom&theme=dracula&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notphenom&hide_border=true&theme=dracula"/>
 
 ## Languages
 ![](https://img.shields.io/badge/-Lua-333333?style=flat?logoColor=blue&logo=lua)
